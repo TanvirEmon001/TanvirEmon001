@@ -51,15 +51,28 @@ Every day I try to improve myself — one widget, one feature, one project at a 
 
 
 
-## 🌱 What I'm Learning Now
+## 🌱 What I've Learned Recently
 
-- Advanced Flutter  
-- Clean Architecture  
-- Better UI/UX design  
-- WebSockets  
-- Firebase Security Rules  
-- English communication  
-- Cybersecurity basics  
+I have strengthened my development foundation by learning:
+
+- Clean Architecture (better separation of concerns)
+- MVVM architecture pattern  
+- Better UI/UX design principles  
+- All the essential fundamentals of Flutter & Firebase  
+- State management basics and project structuring  
+
+---
+
+## 🚀 What I'm Learning Now
+
+- Advanced Flutter concepts  
+- Advanced Dart programming  
+- API optimization and error handling techniques  
+- Firebase Security Rules (deep dive)  
+- Real-time data handling (WebSockets & Streams)  
+- State Management (Bloc, Riverpod)  
+- App performance optimization  
+- Writing cleaner, scalable, and maintainable Flutter code  
 
 ---
 
