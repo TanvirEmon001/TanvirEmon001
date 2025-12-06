@@ -55,6 +55,7 @@ Every day I try to improve myself — one widget, one feature, one project at a 
 
 I have strengthened my development foundation by learning:
 
+- Provider (State Management)
 - Clean Architecture (better separation of concerns)
 - MVVM architecture pattern  
 - Better UI/UX design principles  
