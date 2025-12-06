@@ -50,21 +50,16 @@ Every day I try to improve myself — one widget, one feature, one project at a 
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir-emon&layout=compact&theme=tokyonight" />
 </p>
 
----
+
 
 ## 📱 Projects I’ve Built
 
-- 🔤 **Typing Practice App** (Firebase real-time)
-- 🛒 **E-commerce App** (MySQL backend)
-- 📚 **Hadith App** (JSON + real-time updates)
-- 💬 **Chat App UI** (SQLite message storage)
 - 🧭 **Google Maps App** (Polylines + markers)
-- 🧾 **Text Note App** (SQLite)
-- 📊 **Wallet Tracker App** (unique per-item logic)
-- 🎬 **Lottie animation apps**
-- 🔐 **Biometric login + local DB**
+- 📋 **Task Manager App** (API integration, user authentication)
+- 🔥 **Firebase CRUD App** (Create, Read, Update, Delete with Firebase)
+- ⛅ **Weather App** (User authentication + API-based weather data)
 
----
+
 
 ## 🌱 What I'm Learning Now
 
