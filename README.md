@@ -78,7 +78,7 @@ I have strengthened my development foundation by learning:
 
 ## 📬 Connect With Me
 
-📧 **Email:** tekniumsoft@gmail.com  
+📧 **Email:** mdemonhossain.work@gmail.com  
 
 ---
 
