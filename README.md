@@ -39,6 +39,22 @@ Every day I try to improve myself — one widget, one feature, one project at a 
 
 ---
 
+---
+
+## 🎓 Certifications
+
+### Flutter & Dart – The Complete Guide (Udemy)
+
+I recently completed the **Flutter & Dart – The Complete Guide** course on Udemy.  
+This course helped me strengthen my Flutter fundamentals, Dart concepts, and real-world app development skills.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TanvirEmon001/TanvirEmon001/refs/heads/main/flutter_dart_udemy_certificate.jpeg" 
+       alt="Flutter & Dart Udemy Certificate" 
+       width="600"/>
+</p>
+
+---
 
 
 
