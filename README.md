@@ -15,17 +15,10 @@ Every day I try to improve myself — one widget, one feature, one project at a 
 - Firebase Authentication  
 - Firestore  
 - Realtime Database  
-- SQLite  
 - REST API Integration  
-
-### **Other Skills**
 - Git & GitHub  
-- MySQL  
-- WebSockets  
-- Linux (Ubuntu)  
 - JSON Handling  
-- UI/UX Basics  
-- Figma  
+
 
 ---
 
