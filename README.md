@@ -55,7 +55,7 @@ I also completed the **Flutter App Development** course from Ostad, where I furt
 
 <p align="center">
   <img src="https://ostad.sgp1.digitaloceanspaces.com/share/completion/c40558-md-emon-hossain.png" 
-       alt="Flutter App Development Ostad Certificate" 
+       alt="Flutter App Development (Ostad)" 
        width="600"/>
 </p>
 
