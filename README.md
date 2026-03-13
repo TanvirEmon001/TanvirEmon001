@@ -54,7 +54,7 @@ This course helped me strengthen my Flutter fundamentals, Dart concepts, and rea
 I also completed the **Flutter App Development** course from Ostad, where I further improved my practical Flutter development skills, project structuring, and real-world application building experience.
 
 <p align="center">
-  <img src="https://ostad.sgp1.digitaloceanspaces.com/share/completion/c40558-md-emon-hossain.png" 
+  <img src="https://raw.githubusercontent.com/TanvirEmon001/images/refs/heads/storage/ostad-course/c40558-md-emon-hossain-certificate.png" 
        alt="Flutter App Development (Ostad)" 
        width="600"/>
 </p>
